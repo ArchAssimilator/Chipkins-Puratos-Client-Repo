@@ -186,10 +186,16 @@ Not what can happen in future, but what we have been doing.
 
 - [ ] Open the JD
 - [ ] Show the candidate profiles
-- [ ] Create a rubric in ChatGPT and Canvas
+- [ ] Create a rubric in **ChatGPT** and Canvas
 - [ ] Iterate with the weights and finalise
 - [ ] Export in Markdown and load in repo
 - [ ] Open Antigravity
+
+### 3.9 Legal Agreements Demo
+
+- [ ] Compare two documents
+- [ ] Create prompt in codex
+- [ ] Run evalution in Canvas
 
 ## Way Forward
 
