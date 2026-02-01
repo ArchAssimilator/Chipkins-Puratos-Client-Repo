@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "de930f20aefabaf0",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e1d0048f908de57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da454ae5aee1cd5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "! Presentation/3.3 Deep Research/260201 DR Prompt for ChatGPT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "260201 DR Prompt for ChatGPT"
+            }
+          },
+          {
+            "id": "02a7995d3e1c7162",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "! Presentation/3.2 Daily Intelligence Newsfeed/260201 Grok DI Prompt Generator.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "260201 Grok DI Prompt Generator"
+            }
+          },
+          {
+            "id": "2f6858c90d709f2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "! 260131 Presentation Outline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "! 260131 Presentation Outline"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f015ccf0073e4666",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7c0c100d77f9ebc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f8cfc92951c8db8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "75f66a01e369f87b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7b75d72c88621db7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d787acdad3a3f180",
+    "type": "split",
+    "children": [
+      {
+        "id": "74652056f0df778e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84af50c59065d111",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "! 260131 Presentation Outline.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ! 260131 Presentation Outline"
+            }
+          },
+          {
+            "id": "1a3bf61a1c9211fb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "! 260131 Presentation Outline.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ! 260131 Presentation Outline"
+            }
+          },
+          {
+            "id": "171dc649f8b0d2c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3589361da1c04478",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c05e6f1d852034eb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "! 260131 Presentation Outline.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ! 260131 Presentation Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2f6858c90d709f2a",
+  "lastOpenFiles": [
+    "! Presentation/3.5 HR HR Policies Demo/2. Improvement Process",
+    "! Presentation/3.5 HR HR Policies Demo/1. Policy Documents/UNPROTECTED INDUSTRIAL ACTION.docx",
+    "! Presentation/3.5 HR HR Policies Demo/1. Policy Documents/SOCIAL MEDIA POLICY.docx",
+    "! Presentation/3.5 HR HR Policies Demo/1. Policy Documents/LOAN POLICY.docx",
+    "! Presentation/3.5 HR HR Policies Demo/1. Policy Documents/INDUCTION POLICY.docx",
+    "! Presentation/3.5 HR HR Policies Demo/1. Policy Documents/HEALTH AND SAFETY.docx",
+    "! Presentation/3.5 HR HR Policies Demo/1. Policy Documents/DRUG AND ALCOHOL POLICY.docx",
+    "! Presentation/3.5 HR HR Policies Demo/1. Policy Documents/Car Allowance Policy.pdf",
+    "! Presentation/3.5 HR HR Policies Demo/1. Policy Documents/CP Car Allowance Policy_final.pdf",
+    "! Presentation/3.5 HR HR Policies Demo/1. Policy Documents/ALCOHOL DRUGS POLICY.docx",
+    "! Presentation/3.5 HR HR Policies Demo/1. Policy Documents",
+    "! Presentation/3.2 Daily Intelligence Newsfeed/260102 Daily Intelligence Newsfeed Grok Prompt Chipkins Puratos.md",
+    "! Presentation/3.2 Daily Intelligence Newsfeed/260201 Grok DI Prompt Generator.md",
+    "! Presentation/3.3 Deep Research/260201 Chipkins Puratos – Company Deep Research Report (ChatGPT).docx.md",
+    "! 260131 Presentation Outline.md",
+    "HR Policy Assistant GPT - Employee Edition.md",
+    "Pasted image 20260201105852.png",
+    "! Presentation/3.2 Daily Intelligence Newsfeed/Daily Intelligence Newsfeed Gauteng GTS.md",
+    "! Presentation/3.3 Deep Research/260201 DR Prompt for ChatGPT.md",
+    "! Presentation/3.3 Deep Research/260201 DR Prompt Generator.md",
+    "! Presentation/3.3 Deep Research/260201 Gemini DR Prompt.md",
+    "! Presentation/3.3 Deep Research/Company Deep Research Report Template.md",
+    "! Presentation/3.1 'First' Meetings/Second Meeting/Comparison.md",
+    "! Presentation/3.1 'First' Meetings/Second Meeting/260130 PC Carl van der Velden (Codex Summary).md",
+    "! Presentation/3.1 'First' Meetings/Second Meeting/260130 MN Carl van der Velden (MST Copy).md",
+    "! Presentation/3.1 'First' Meetings/First Meeting/claude-report.md",
+    "! Presentation/3.1 'First' Meetings/First Meeting/codex-report.md",
+    "! Presentation/3.1 'First' Meetings/First Meeting/Claude Prompt.md",
+    "Company Research/Prompts/260201 DR Prompt Generator.md",
+    "Company Research/Prompts/260201 DR Prompt for ChatGPT.md",
+    "Company Research/Prompts/Company Deep Research Report Template.md",
+    "Company Research/Prompts/260201 Gemini DR Prompt.md",
+    "Contact Reports/260130 MN Carl van der Velden (MST Copy).md",
+    "Contact Reports/260130 PC Carl van der Velden (Codex Summary).md",
+    "! Presentation/3.1 'First' Meetings/First Meeting/Codex Prompt.md",
+    "! Presentation/1. First Meeting.md",
+    "Executive Team/260202 Executive Team Members Attending Presentation.md"
+  ]
+}
