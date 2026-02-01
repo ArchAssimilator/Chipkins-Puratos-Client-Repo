@@ -4,67 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "8e1d0048f908de57",
+        "id": "251adaf1ee964a66",
         "type": "tabs",
         "children": [
           {
-            "id": "da454ae5aee1cd5d",
+            "id": "aa019fafefcc2322",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "! Presentation/3.3 Deep Research/260201 DR Prompt for ChatGPT.md",
+                "file": "! 260131 Presentation Outline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "260201 DR Prompt for ChatGPT"
+              "title": "! 260131 Presentation Outline"
             }
           },
           {
-            "id": "02a7995d3e1c7162",
+            "id": "221457084119b541",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "! Presentation/3.2 Daily Intelligence Newsfeed/260201 Grok DI Prompt Generator.md",
+                "file": "! 260131 Presentation Outline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "260201 Grok DI Prompt Generator"
+              "title": "! 260131 Presentation Outline"
             }
           },
           {
-            "id": "2f6858c90d709f2a",
+            "id": "4a6d393dfda0fae3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "! Presentation/3.5 Executive Team OSINT Research/260202 Executive Team Research Prompt.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "260202 Executive Team Research Prompt"
-            }
-          },
-          {
-            "id": "60ed21dcc766ea3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "! Presentation/3.5 Executive Team OSINT Research/260202 Executive Team Research Prompt.md",
+                "file": "! 260131 Presentation Outline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "260202 Executive Team Research Prompt"
+              "title": "! 260131 Presentation Outline"
+            }
+          },
+          {
+            "id": "54f685fc4bf6c780",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "! Presentation/3.5 Executive Team OSINT Research/260201 Executive Team Member Report.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "260201 Executive Team Member Report"
+            }
+          },
+          {
+            "id": "15f6528c8ec50357",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "! Presentation/3.8 Recruiting Demo/260201 Interview Guides Creation Prompt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "260201 Interview Guides Creation Prompt"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -137,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! Presentation/3.5 Executive Team OSINT Research/260202 Executive Team Research Prompt.md",
+                "file": "! Presentation/3.8 Recruiting Demo/260201 Interview Guides Creation Prompt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 260202 Executive Team Research Prompt"
+              "title": "Backlinks for 260201 Interview Guides Creation Prompt"
             }
           },
           {
@@ -156,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "! Presentation/3.5 Executive Team OSINT Research/260202 Executive Team Research Prompt.md",
+                "file": "! Presentation/3.8 Recruiting Demo/260201 Interview Guides Creation Prompt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 260202 Executive Team Research Prompt"
+              "title": "Outgoing links from 260201 Interview Guides Creation Prompt"
             }
           },
           {
@@ -199,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! Presentation/3.5 Executive Team OSINT Research/260202 Executive Team Research Prompt.md",
+                "file": "! Presentation/3.8 Recruiting Demo/260201 Interview Guides Creation Prompt.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 260202 Executive Team Research Prompt"
+              "title": "Outline of 260201 Interview Guides Creation Prompt"
             }
           }
         ]
@@ -226,48 +240,49 @@
       "bases:Create new base": false
     }
   },
-  "active": "60ed21dcc766ea3c",
+  "active": "15f6528c8ec50357",
   "lastOpenFiles": [
-    "260201 ET Report Generator Prompt.md",
-    "260201 vCard Enrichment Prompt.md",
-    "260201 Initial V-Card Creator Prompt.md",
-    "260201 Initial vCard Creator Prompt.md",
-    "! Presentation/3.5 Executive Team OSINT Research/260202 Executive Team Research Prompt.md",
-    "! Presentation/3.5 Executive Team OSINT Research/260202 Executive Team Members Attending Presentation.md",
-    "Report Generator.md",
-    "V-Card Enrichment.md",
-    "Snippets/OSINT",
-    "Snippets",
+    "! Presentation/3.8 Recruiting Demo/Rejection Letters/260201_MphoCliffordMonama.docx",
+    "! Presentation/3.8 Recruiting Demo/Rejection Letters/260201_LebepeKholofeloShane.docx",
+    "! Presentation/3.8 Recruiting Demo/Rejection Letters/260201_DzunisaniRoyalChauke.docx",
+    "! Presentation/3.8 Recruiting Demo/Rejection Letters/260201_AzileNtozakhe.docx",
+    "! Presentation/3.8 Recruiting Demo/260201 Candidate Evaluation Prompt.md",
+    "! Presentation/3.8 Recruiting Demo/260201 Interview Guides Creation Prompt.md",
+    "! Presentation/3.8 Recruiting Demo/260201 Rubric Table.md",
+    "! Presentation/3.8 Recruiting Demo/260201 Rubric Creation Prompt.md",
+    "! Presentation/3.8 Recruiting Demo/260201 Rejection Letter Prompt.md",
     "! 260131 Presentation Outline.md",
-    "! Presentation/3.7 Labour Law & Employee Relations Consultant/Sample Labour Law Question.md",
-    "260131 HR Policy Assistant GPT - Employee Edition.md",
-    "! Presentation/3.7 Labour Law & Employee Relations Consultant/4.6.3 Sample Labour Law Question.md",
-    "! Presentation/3.7 Labour Law & Employee Relations Consultant",
-    "! Presentation/3.2 Daily Intelligence Newsfeed/3.7 Labour Law & Employee Relations Consultant",
-    "! Presentation/3.5 HR Policies Demo/Policy Documents/UNPROTECTED INDUSTRIAL ACTION.docx",
-    "! Presentation/3.5 HR Policies Demo/Policy Documents/SOCIAL MEDIA POLICY.docx",
-    "! Presentation/3.5 HR Policies Demo/Policy Documents/LOAN POLICY.docx",
-    "! Presentation/3.5 HR Policies Demo/Policy Documents/INDUCTION POLICY.docx",
-    "! Presentation/3.5 HR Policies Demo/Policy Documents/HEALTH AND SAFETY.docx",
-    "! Presentation/3.5 HR Policies Demo/Policy Documents/DRUG AND ALCOHOL POLICY.docx",
-    "! Presentation/3.5 HR Policies Demo/1. PolicyWise HR Assistant/260131 PolicyWise HR Assistant.md",
-    "! Presentation/3.5 HR Policies Demo/PolicyWise HR Assistant/260131 PolicyWise HR Assistant.md",
-    "! Presentation/3.5 HR Policies Demo/1. Policy Documents/PolicyWise HR Assistant/260131 PolicyWise HR Assistant.md",
-    "! Presentation/3.5 HR Policies Demo/1. Policy Documents/260131 PolicyWise HR Assistant.md",
-    "! Presentation/3.5 HR Policies Demo/260131 PolicyWise HR Assistant.md",
-    "260131 PolicyWise HR Assistant.md",
-    "! Presentation/3.5 HR Policies Demo/policywise_icon_circle_512_transparent.png",
-    "! Presentation/3.5 HR Policies Demo/policywise_icon_512.jpg",
-    "! Presentation/3.5 HR Policies Demo/ChatGPT Image Feb 1, 2026 at 01_48_03 PM.png",
+    "! Presentation/3.8 Recruiting Demo/Candidate Evaluation/Thembinkosi Velly Mkhize.md",
+    "! Presentation/3.8 Recruiting Demo/Candidate Evaluation/Mpho Clifford Monama.md",
+    "! Presentation/3.8 Recruiting Demo/Candidate Evaluation/Lizwe Neville Dube.md",
+    "! Presentation/3.8 Recruiting Demo/Candidate Evaluation/Lebepe Kholofelo Shane.md",
+    "! Presentation/3.8 Recruiting Demo/Candidate Evaluation/Greg Spiller.md",
+    "! Presentation/3.8 Recruiting Demo/Candidate Evaluation/Dzunisani Royal Chauke.md",
+    "! Presentation/3.8 Recruiting Demo/Candidate Evaluation/Azile Ntozakhe.md",
+    "! Presentation/3.8 Recruiting Demo/Candidate Evaluation/Candidate Ranking Report.md",
+    "! Presentation/3.8 Recruiting Demo/Interview Guides/260201 Interviewers.md",
+    "! Presentation/3.5 Executive Team OSINT Research/260201 Interviewers.md",
+    "! Presentation/3.5 Executive Team OSINT Research/Key Executives Summary.md",
+    "! Presentation/3.5 Executive Team OSINT Research/260201 Executive Team Member Report.md",
+    "! Presentation/3.8 Recruiting Demo/Rejection Letters",
+    "! Presentation/3.8 Recruiting Demo/Interview Guides",
+    "! Presentation/3.5 Executive Team OSINT Research/260201 Executive Team Research Prompt.md",
+    "! Presentation/3.5 Executive Team OSINT Research/260201 Executive Team Members Attending Presentation.md",
+    "! Presentation/3.8 Recruiting Demo/Candidate Evaluation",
+    "! Presentation/3.8 Recruiting Demo/260201 Interview Guide Prompt",
+    "260201 Rubric Creation Prompt.md",
+    "260201 Candidate Evaluation Prompt.md",
+    "! Presentation/3.5 HR Policies Demo/2. Improvement Process/260201 HR Policy Evaluation Report.md",
+    "! Presentation/3.5 HR Policies Demo/2. Improvement Process/260201 Policy Evaluator.md",
+    "260201 Rejection Letter Prompt.md",
+    "! Presentation/3.5 HR Policies Demo/1. PolicyWise HR Assistant/Images/ChatGPT Image Feb 1, 2026 at 01_48_03 PM.png",
+    "! Presentation/3.5 HR Policies Demo/1. PolicyWise HR Assistant/Images/policywise_icon_512.jpg",
+    "! Presentation/3.5 HR Policies Demo/1. PolicyWise HR Assistant/Images/policywise_icon_circle_512_transparent.png",
+    "! Presentation/3.5 HR Policies Demo/1. PolicyWise HR Assistant/Images",
+    "! Presentation/3.5 HR Policies Demo/1. PolicyWise HR Assistant/Images/policywise_icon_1024.jpg",
+    "! Presentation/3.5 Executive Team OSINT Research/vCards/11_Carl_Van_Der_Velden.vcf",
+    "! Presentation/3.5 Executive Team OSINT Research/vCards/10_Tahlia_Elcome_new.vcf",
     "! Presentation/3.5 HR HR Policies Demo/ChatGPT Image Feb 1, 2026 at 01_48_03 PM.png.download/ChatGPT Image Feb 1, 2026 at 01_48_03 PM.png",
-    "! Presentation/3.2 Daily Intelligence Newsfeed/260102 Daily Intelligence Newsfeed Grok Prompt Chipkins Puratos.md",
-    "! Presentation/3.2 Daily Intelligence Newsfeed/260201 Grok DI Prompt Generator.md",
-    "! Presentation/3.3 Deep Research/260201 Chipkins Puratos – Company Deep Research Report (ChatGPT).docx.md",
-    "Pasted image 20260201105852.png",
-    "! Presentation/3.2 Daily Intelligence Newsfeed/Daily Intelligence Newsfeed Gauteng GTS.md",
-    "! Presentation/3.3 Deep Research/260201 DR Prompt for ChatGPT.md",
-    "! Presentation/3.3 Deep Research/260201 DR Prompt Generator.md",
-    "! Presentation/3.3 Deep Research/260201 Gemini DR Prompt.md",
-    "! Presentation/3.3 Deep Research/Company Deep Research Report Template.md"
+    "Pasted image 20260201105852.png"
   ]
 }

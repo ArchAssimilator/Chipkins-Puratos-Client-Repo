@@ -20,6 +20,8 @@
 - [ ] Find image of Challenger
 - [ ] Find article about the wait challenge
 - [ ] Find website development
+- [ ] See if we can run the Gemini Deep Research again
+- [ ] See if we can fix the image in the Custom GPT
 
 ## 1. Agenda
 
@@ -86,99 +88,108 @@ Not what can happen in future, but what we have been doing.
 
 #### First Meeting
 
-1. Show the prompts for initial research
-2. Show the reports for the second research
-3. Explain the Teams problems, and how the recording function in ChatGPT would have saved the day
+- [ ] Show the prompts for initial research
+- [ ] Show the reports for the second research
+- [ ] Explain the Teams problems, and how the recording function in ChatGPT would have saved the day
 #### Second Meeting
 
-- Show the report in Teams
-- Show how I add the .vtt file
-- Show that I ran comparison
-- Note the actions points
+- [ ] Show the report in Teams
+- [ ] Show how I add the .vtt file
+- [ ] Show that I ran comparison
+- [ ] Note the actions points
 
 ### 3.2 Daily Tracker in Grok
 
-- Open Grok
-- Show the Daily Intelligence Newsfeed for Chipkins Puratos
-- Show the prompt of how we updated the prompt from Gauteng GTS - Obsidian & Grok
-- Show the updated prompt in the final Daily Task
-- Show how you can ask follow up questions
-- Explain how this Feed separates the 'signal' from the 'noise'
+- [ ] Open Grok
+- [ ] Show the Daily Intelligence Newsfeed for Chipkins Puratos
+- [ ] Show the prompt of how we updated the prompt from Gauteng GTS - Obsidian & Grok
+- [ ] Show the updated prompt in the final Daily Task
+- [ ] Show how you can ask follow up questions
+- [ ] Explain how this Feed separates the 'signal' from the 'noise'
 
 ### 3.3 Deep Research
 
-1. Show the DR Prompt Generator - Obsidian
-2. Show the creation of the Prompt for ChatGPT - Cursor
-3. Show the creation of the Prompt for Gemini - Antigravity
-4. Show the report in ChatGPT
-5. Download the report in .docx format to Google Drive
-6. Open it in Google Docs
-7. Export it as PDF and .md into the repo
-8. Open the PDF in Obsidian and click through to some sources
+- [ ] Show the DR Prompt Generator - Obsidian
+- [ ] Show the creation of the Prompt for ChatGPT - Cursor
+- [ ] Show the creation of the Prompt for Gemini - Antigravity
+- [ ] Show the report in ChatGPT
+- [ ] Download the report in .docx format to Google Drive
+- [ ] Open it in Google Docs
+- [ ] Export it as PDF and .md into the repo
+- [ ] Open the PDF in Obsidian and click through to some sources
 
 ### 3.4 NDA
 
-1. Open Claude and show the process of reviewing the NDA
-2. Show the creation of the track-and-trace enabled Word document
-3. Show in Copilot that it cannot do that
-4. Show in Copilot that the chat did not get added to the Notebook
+- [ ] Open Claude and show the process of reviewing the NDA
+- [ ] Show the creation of the track-and-trace enabled Word document
+- [ ] Show in Copilot that it cannot do that
+- [ ] Show in Copilot that the chat did not get added to the Notebook
 
 ### 3.5 ET OSINT Research
 
-
+- [ ] Explain Claude Cowork (from Claude Code)
+- [ ] Explain that I linked it to right folder on my Mac
+- [ ] Explain what else is in the folder (report template)
+- [ ] Show the workflow
+- [ ] Point out the missing honorific for Remi
+- [ ] Show in the next step confirmation of Remi's honorific
+- [ ] Point out that all addresses are in Longmeadow, but requires confirmation
+- [ ] Point out that the report was not able to identify certain people, but the root cause is that Microsoft did not create the initial overview correctly. Show again. 
 
 ### 3.6 HR Policies Demo
 
 #### PolicyWise HR Assistant
 
-1. Open ChatGPT
-2. Explain Custom GPTs
-3. Show the one 'Fireside AMA with Winston Churchill'
-4. Open to show how you set one up.
-5. Create a new assistant
-	1. Use snippet to add the instructions
-	2. Drag the policies in
-	3. Turn off all the extra capabilities
-6. Ask a question about loans
-7. Ask the question about the horror movie -> should not have answered
-8. Ask about sexual harassment -> should answer but based on policy
-9. Show new updated Assistant
-10. Ask about BMW 7-series
-11. Ask about horror movie -> does not answer
-12. Ask about sexual harassment -> see out of scope as well
-13. What else is missing?
+- [ ] Open ChatGPT
+- [ ] Explain Custom GPTs
+- [ ] Show the one 'Fireside AMA with Winston Churchill'
+- [ ] Open to show how you set one up.
+- [ ] Create a new assistant
+	- [ ] Use the short snippet to create the instructions
+	- [ ] Set up the full GPT live
+- [ ] Ask a question about loans
+- [ ] Ask the question about the horror movie -> should not have answered
+- [ ] Ask about sexual harassment -> should answer but based on policy
+- [ ] Show new updated Assistant
+- [ ] Ask about BMW 7-series
+- [ ] Ask about horror movie -> does not answer
+- [ ] Ask about sexual harassment -> see out of scope as well
+- [ ] What else is missing?
 
 #### Policy Evaluation
 
-1. Open Cursors
-2. Open Policies folder
-3. Run prompt about missing policies
-4. Pick missing policy
-5. Run multistep prompts about 
-6. Following will not be demoed but explained:
-	1. Explain that executive feedback takes time
-	2. Develop questionnaire that captures each executives 'attitude' vis-a-vis HR policies - Avatar
-	3. Run interview or role play with each avatar and create report
-	4. Create summary report of all feedback and create final policy with change document 
+- [ ] Open Cursor
+- [ ] Open Policies folder
+- [ ] Explain how you created the policy evaluator prompt (iterative process)
+- [ ] Run prompt about missing policies
+- [ ] Show final report
+- [ ] Pick missing policy
+- [ ] Explain how you created
+- [ ] Run multistep prompts about
+- [ ] Following will not be demoed but explained:
+	- [ ] Explain that executive feedback takes time
+	- [ ] Develop questionnaire that captures each executives 'attitude' vis-a-vis HR policies - Avatar
+	- [ ] Run interview or role play with each avatar and create report
+	- [ ] Create summary report of all feedback and create final policy with change document 
 
 ### 3.7 Labour Law and Employee Relations Consultant Demo
 
-1. Show that Gemini can do the same
-2. Highlight that it should not be used in court
-3. Run a couple of sample questions
-4. Open the Gem to show how it works
-5. Explore in the group if they have other examples
-6. Show the one for the SA Chefs Association
-7. Show the Health & Safety Plan Outliner - Claude Artefact
+- [ ] Show that Gemini can do the same
+- [ ] Highlight that it should not be used in court
+- [ ] Run a couple of sample questions
+- [ ] Open the Gem to show how it works
+- [ ] Explore in the group if they have other examples
+- [ ] Show the one for the SA Chefs Association
+- [ ] Show the Health & Safety Plan Outliner - Claude Artefact
 
 ### 3.8 Recruiting Process Demo
 
-1. Open the JD
-2. Show the candidate profiles
-3. Create a rubric in Gemini and Canvas - use snippet
-4. Iterate with the weights and finalise
-5. Export in Markdown and load in repo
-6. Open Antigravity
+- [ ] Open the JD
+- [ ] Show the candidate profiles
+- [ ] Create a rubric in ChatGPT and Canvas
+- [ ] Iterate with the weights and finalise
+- [ ] Export in Markdown and load in repo
+- [ ] Open Antigravity
 
 ## Way Forward
 
