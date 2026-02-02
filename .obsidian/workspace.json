@@ -11,10 +11,14 @@
             "id": "7a9816af93a91b29",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "! 260131 Presentation Outline.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "! 260131 Presentation Outline"
             }
           }
         ]
@@ -90,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! Presentation/3.9 Legal Agreements Demo/Master Supply Agreement/260201 Agreement Review and Negotiation Guide Creation Prompt.md",
+                "file": "! 260131 Presentation Outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 260201 Agreement Review and Negotiation Guide Creation Prompt"
+              "title": "Backlinks for ! 260131 Presentation Outline"
             }
           },
           {
@@ -109,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "! Presentation/3.9 Legal Agreements Demo/Master Supply Agreement/260201 Agreement Review and Negotiation Guide Creation Prompt.md",
+                "file": "! 260131 Presentation Outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 260201 Agreement Review and Negotiation Guide Creation Prompt"
+              "title": "Outgoing links from ! 260131 Presentation Outline"
             }
           },
           {
@@ -152,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! Presentation/3.9 Legal Agreements Demo/Master Supply Agreement/260201 Agreement Review and Negotiation Guide Creation Prompt.md",
+                "file": "! 260131 Presentation Outline.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 260201 Agreement Review and Negotiation Guide Creation Prompt"
+              "title": "Outline of ! 260131 Presentation Outline"
             }
           }
         ]
@@ -179,10 +183,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "8f8cfc92951c8db8",
+  "active": "7a9816af93a91b29",
   "lastOpenFiles": [
-    "Templates/Masterclass Training.md",
     "! Presentation/3.9 Legal Agreements Demo/Master Supply Agreement/260201 Agreement Review and Negotiation Guide Creation Prompt.md",
+    "Templates/Masterclass Training.md",
     "! Presentation/3.9 Legal Agreements Demo/Master Supply Agreement/Complete_with_Docusign_Chipkins_Master_Suppl-1.pdf",
     "! Presentation/3.3 Deep Research/Prompts/260201 DR Prompt Generator.md",
     "! Presentation/3.3 Deep Research/Prompts/260201 DR Prompt for Gemini.md",

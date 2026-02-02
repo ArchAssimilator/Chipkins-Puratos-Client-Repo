@@ -1,10 +1,11 @@
 # Presentation Outline - Why AI
 
 
+
 ## 'Agreed'
 
-
-
+- [ ] Practical, simple
+- [ ] Focus on R&D, they have tried
 ## Ideas
 
 - [x] Show how we prepared
@@ -146,6 +147,7 @@ Not what can happen in future, but what we have been doing.
 - [ ] Open to show how you set one up.
 - [ ] Create a new assistant
 	- [ ] Use the short snippet to create the instructions
+	- [ ] Copy the instructions for inclusion in the GPT
 	- [ ] Set up the full GPT live
 - [ ] Ask a question about loans
 - [ ] Ask the question about the horror movie -> should not have answered
@@ -163,10 +165,9 @@ Not what can happen in future, but what we have been doing.
 - [ ] Explain how you created the policy evaluator prompt (iterative process)
 - [ ] Run prompt about missing policies
 - [ ] Show final report
-- [ ] Pick missing policy
-- [ ] Explain how you created
-- [ ] Run multistep prompts about
 - [ ] Following will not be demoed but explained:
+	- [ ] Pick missing policy
+	- [ ] In an iterative process create new policy
 	- [ ] Explain that executive feedback takes time
 	- [ ] Develop questionnaire that captures each executives 'attitude' vis-a-vis HR policies - Avatar
 	- [ ] Run interview or role play with each avatar and create report
@@ -176,7 +177,7 @@ Not what can happen in future, but what we have been doing.
 
 - [ ] Show that Gemini can do the same
 - [ ] Highlight that it should not be used in court
-- [ ] Run a couple of sample questions
+- [ ] Run a couple of sample questions - see documents
 - [ ] Open the Gem to show how it works
 - [ ] Explore in the group if they have other examples
 - [ ] Show the one for the SA Chefs Association
@@ -186,8 +187,8 @@ Not what can happen in future, but what we have been doing.
 
 - [ ] Open the JD
 - [ ] Show the candidate profiles
-- [ ] Create a rubric in **ChatGPT** and Canvas
-- [ ] Iterate with the weights and finalise
+- [ ] Show how you created a rubric in **ChatGPT** with Canvas
+- [ ] Explain that normally you iterate with the attributes & weights and then finalise
 - [ ] Export in Markdown and load in repo
 - [ ] Open Antigravity
 
