@@ -4,93 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "251adaf1ee964a66",
+        "id": "ed1b7fed9eaa70a1",
         "type": "tabs",
         "children": [
           {
-            "id": "aa019fafefcc2322",
+            "id": "7a9816af93a91b29",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "! 260131 Presentation Outline.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "! 260131 Presentation Outline"
-            }
-          },
-          {
-            "id": "221457084119b541",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "! 260131 Presentation Outline.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "! 260131 Presentation Outline"
-            }
-          },
-          {
-            "id": "4a6d393dfda0fae3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "! 260131 Presentation Outline.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "! 260131 Presentation Outline"
-            }
-          },
-          {
-            "id": "54f685fc4bf6c780",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "! Presentation/3.5 Executive Team OSINT Research/260201 Executive Team Member Report.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "260201 Executive Team Member Report"
-            }
-          },
-          {
-            "id": "15f6528c8ec50357",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "! Presentation/3.9 Legal Agreements Demo/Master Supply Agreement/Complete_with_Docusign_Chipkins_Master_Suppl-1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Complete_with_Docusign_Chipkins_Master_Suppl-1"
-            }
-          },
-          {
-            "id": "86aefa29a7dc1da5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "! Presentation/3.8 Recruiting Demo/260201 4. Interview Guides Creation Prompt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "260201 4. Interview Guides Creation Prompt"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! Presentation/3.8 Recruiting Demo/260201 4. Interview Guides Creation Prompt.md",
+                "file": "! Presentation/3.9 Legal Agreements Demo/Master Supply Agreement/260201 Agreement Review and Negotiation Guide Creation Prompt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 260201 4. Interview Guides Creation Prompt"
+              "title": "Backlinks for 260201 Agreement Review and Negotiation Guide Creation Prompt"
             }
           },
           {
@@ -182,12 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "! Presentation/3.8 Recruiting Demo/260201 4. Interview Guides Creation Prompt.md",
+                "file": "! Presentation/3.9 Legal Agreements Demo/Master Supply Agreement/260201 Agreement Review and Negotiation Guide Creation Prompt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 260201 4. Interview Guides Creation Prompt"
+              "title": "Outgoing links from 260201 Agreement Review and Negotiation Guide Creation Prompt"
             }
           },
           {
@@ -225,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! Presentation/3.8 Recruiting Demo/260201 4. Interview Guides Creation Prompt.md",
+                "file": "! Presentation/3.9 Legal Agreements Demo/Master Supply Agreement/260201 Agreement Review and Negotiation Guide Creation Prompt.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 260201 4. Interview Guides Creation Prompt"
+              "title": "Outline of 260201 Agreement Review and Negotiation Guide Creation Prompt"
             }
           }
         ]
@@ -252,46 +179,46 @@
       "bases:Create new base": false
     }
   },
-  "active": "86aefa29a7dc1da5",
+  "active": "8f8cfc92951c8db8",
   "lastOpenFiles": [
-    "! 260131 Presentation Outline.md",
-    "! Presentation/3.8 Recruiting Demo/260201 4. Interview Guides Creation Prompt.md",
-    "! Presentation/3.8 Recruiting Demo/260201 3. Rejection Letter Prompt.md",
-    "! Presentation/3.8 Recruiting Demo/260201 2. Candidate Evaluation Prompt.md",
-    "! Presentation/3.8 Recruiting Demo/260201 1. Rubric Creation Prompt.md",
-    "260201 Comparison Prompt.md",
+    "Templates/Masterclass Training.md",
+    "! Presentation/3.9 Legal Agreements Demo/Master Supply Agreement/260201 Agreement Review and Negotiation Guide Creation Prompt.md",
     "! Presentation/3.9 Legal Agreements Demo/Master Supply Agreement/Complete_with_Docusign_Chipkins_Master_Suppl-1.pdf",
-    "! Presentation/3.8 Recruiting Demo/Rejection Letters/260201_MphoCliffordMonama.docx",
-    "! Presentation/3.8 Recruiting Demo/Rejection Letters/260201_LebepeKholofeloShane.docx",
-    "! Presentation/3.8 Recruiting Demo/Rejection Letters/260201_DzunisaniRoyalChauke.docx",
-    "! Presentation/3.8 Recruiting Demo/Rejection Letters/260201_AzileNtozakhe.docx",
-    "! Presentation/3.8 Recruiting Demo/260201 Rubric Table.md",
-    "! Presentation/3.8 Recruiting Demo/Candidate Evaluation/Thembinkosi Velly Mkhize.md",
-    "! Presentation/3.8 Recruiting Demo/Candidate Evaluation/Mpho Clifford Monama.md",
-    "! Presentation/3.8 Recruiting Demo/Candidate Evaluation/Lizwe Neville Dube.md",
-    "! Presentation/3.8 Recruiting Demo/Candidate Evaluation/Lebepe Kholofelo Shane.md",
-    "! Presentation/3.8 Recruiting Demo/Candidate Evaluation/Greg Spiller.md",
-    "! Presentation/3.8 Recruiting Demo/Candidate Evaluation/Dzunisani Royal Chauke.md",
-    "! Presentation/3.8 Recruiting Demo/Candidate Evaluation/Azile Ntozakhe.md",
-    "! Presentation/3.8 Recruiting Demo/Candidate Evaluation/Candidate Ranking Report.md",
+    "! Presentation/3.3 Deep Research/Prompts/260201 DR Prompt Generator.md",
+    "! Presentation/3.3 Deep Research/Prompts/260201 DR Prompt for Gemini.md",
+    "! Presentation/3.3 Deep Research/Prompts/260201 DR Prompt for ChatGPT.md",
+    "! Presentation/3.3 Deep Research/Prompts",
+    "! Presentation/3.3 Deep Research/untitled folder",
+    "! Presentation/3.3 Deep Research/Reports/Baking in Hard Mode with Generative AI.mp3",
+    "! Presentation/3.3 Deep Research/Reports/Chipkins Puratos – Company Deep Research Report.docx",
+    "! Presentation/3.3 Deep Research/Reports/260201 Chipkins Puratos DR  for GenAI (Gemini).pdf",
+    "! Presentation/3.3 Deep Research/Reports/260201 Chipkins Puratos – Company Deep Research Report (direct from ChatGPT).pdf",
+    "! Presentation/3.3 Deep Research/Reports/260201 Chipkins Puratos – Company Deep Research Report (ChatGPT).pdf",
+    "! Presentation/3.3 Deep Research/Reports/260201 Chipkins Puratos – Company Deep Research Report (ChatGPT).md",
+    "! Presentation/3.3 Deep Research/Reports",
+    "Reports",
+    "! Presentation/3.3 Deep Research/260201 Chipkins Puratos – Company Deep Research Report (ChatGPT).md",
+    "! Presentation/3.9 Legal Agreements Demo/Master Supply Agreement/260201 Contract Comparison Review.md",
+    "! Presentation/3.9 Legal Agreements Demo/Master Supply Agreement/260201 Comparison Prompt.md",
+    "! Presentation/3.9 Legal Agreements Demo/Master Supply Agreement/Individual Prompts/README.md",
+    "! Presentation/3.9 Legal Agreements Demo/Master Supply Agreement/Individual Prompts/Step 6 - Negotiation Strategy.md",
+    "! Presentation/3.9 Legal Agreements Demo/Master Supply Agreement/Individual Prompts/Step 5 - Outcomes Table.md",
+    "! Presentation/3.9 Legal Agreements Demo/Master Supply Agreement/Individual Prompts/Step 4 - Public-Domain Disputes and New Clauses.md",
+    "! Presentation/3.9 Legal Agreements Demo/Master Supply Agreement/Individual Prompts/Step 3 - Detrimental Clauses.md",
+    "! Presentation/3.9 Legal Agreements Demo/Master Supply Agreement/Individual Prompts/Step 2 - Legal Issues.md",
+    "! Presentation/3.9 Legal Agreements Demo/Master Supply Agreement/Individual Prompts/Step 1 - Business Summary.md",
+    "! Presentation/3.9 Legal Agreements Demo/Master Supply Agreement/Individual Prompts/Step 0 - Intake and Scope.md",
+    "! 260131 Presentation Outline.md",
+    "! Presentation/3.8 Recruiting Demo/Interview Guides/260201-Rémi-Piot-Lizwe-Neville-Dube.md",
+    "! Presentation/3.8 Recruiting Demo/Interview Guides/260201-Rémi-Piot-Thembinkosi-Velly-Mkhize.md",
+    "! Presentation/3.8 Recruiting Demo/Interview Guides/260201-Rémi-Piot-Greg-Spiller.md",
+    "! Presentation/3.8 Recruiting Demo/Interview Guides/260201-David-Magrobi-Greg-Spiller.md",
     "! Presentation/3.8 Recruiting Demo/Interview Guides/260201 Interviewers.md",
-    "! Presentation/3.5 Executive Team OSINT Research/260201 Interviewers.md",
-    "! Presentation/3.5 Executive Team OSINT Research/Key Executives Summary.md",
-    "! Presentation/3.5 Executive Team OSINT Research/260201 Executive Team Member Report.md",
-    "! Presentation/3.8 Recruiting Demo/Rejection Letters",
-    "! Presentation/3.8 Recruiting Demo/Interview Guides",
-    "! Presentation/3.5 Executive Team OSINT Research/260201 Executive Team Research Prompt.md",
-    "! Presentation/3.5 Executive Team OSINT Research/260201 Executive Team Members Attending Presentation.md",
-    "! Presentation/3.8 Recruiting Demo/Candidate Evaluation",
-    "! Presentation/3.8 Recruiting Demo/260201 Interview Guide Prompt",
-    "260201 Rubric Creation Prompt.md",
-    "260201 Candidate Evaluation Prompt.md",
-    "! Presentation/3.5 HR Policies Demo/2. Improvement Process/260201 HR Policy Evaluation Report.md",
-    "! Presentation/3.5 HR Policies Demo/2. Improvement Process/260201 Policy Evaluator.md",
+    "! Presentation/3.8 Recruiting Demo/Interview Guides/260201-Remi-Piot-Greg-Spiller.md",
+    "! Presentation/3.8 Recruiting Demo/Interview Guides/260201-Nomsa-Kganakga-Greg-Spiller.md",
     "! Presentation/3.5 HR Policies Demo/1. PolicyWise HR Assistant/Images/ChatGPT Image Feb 1, 2026 at 01_48_03 PM.png",
     "! Presentation/3.5 HR Policies Demo/1. PolicyWise HR Assistant/Images/policywise_icon_512.jpg",
     "! Presentation/3.5 HR Policies Demo/1. PolicyWise HR Assistant/Images/policywise_icon_circle_512_transparent.png",
-    "! Presentation/3.5 HR Policies Demo/1. PolicyWise HR Assistant/Images",
     "! Presentation/3.5 HR Policies Demo/1. PolicyWise HR Assistant/Images/policywise_icon_1024.jpg",
     "! Presentation/3.5 HR HR Policies Demo/ChatGPT Image Feb 1, 2026 at 01_48_03 PM.png.download/ChatGPT Image Feb 1, 2026 at 01_48_03 PM.png",
     "Pasted image 20260201105852.png"
