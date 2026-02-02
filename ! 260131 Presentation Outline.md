@@ -182,6 +182,7 @@ Not what can happen in future, but what we have been doing.
 - [ ] Explore in the group if they have other examples
 - [ ] Show the one for the SA Chefs Association
 - [ ] Show the Health & Safety Plan Outliner - Claude Artefact
+- [ ] Explain how we can build the health and safety phone app
 
 ### 3.8 Recruiting Process Demo
 
@@ -190,24 +191,48 @@ Not what can happen in future, but what we have been doing.
 - [ ] Show how you created a rubric in **ChatGPT** with Canvas
 - [ ] Explain that normally you iterate with the attributes & weights and then finalise
 - [ ] Export in Markdown and load in repo
-- [ ] Open Antigravity
+- [ ] Show how you created the evaluation prompt
+	- [ ] Looks at JD
+	- [ ] Looks at the rubric
+	- [ ] Scores
+	- [ ] Safeguard -> do research if sub-top candidate has missing info
+	- [ ] Write final rank and individual reports
+- [ ] Show how you wrote the rejection letter prompt
+- [ ] Show rejection letters
+- [ ] Show how you wrote the interview guide prompt and explain the reason
+- [ ] Show the interview guides
+- [ ] Following will not be demoed but explained
+	- [ ] You could record the interview
+	- [ ] Assess candidates against a modified rubric
 
 ### 3.9 Legal Agreements Demo
 
-- [ ] Compare two documents
-- [ ] Create prompt in codex
-- [ ] Run evalution in Canvas
+- [ ] Start with the agreements, first and signed
+- [ ] Show how you developed the comparison prompt
+- [ ] Show the comparison report
+- [ ] Explain model 'intelligence', context size, context rot, least cost routing  and thus need for prompt chaining 
+- [ ] Show the raw prompt, and how that led to the individual prompts
+- [ ] Explain how we now suggest companies work with lawyers
+	- [ ] Create Project with context
+	- [ ] First list all the clause headings
+	- [ ] Develop them one by one (context window!) in iterative process
+	- [ ] Final step, bring it together for internal consistency, commonality of language and internal references
+	- [ ] Have other model check it.
+- [ ] Scan any legal document (hotels, hospital, etc.)
 
 ## Way Forward
 
-1. Journey of Discovery
+1. AI Transformation Programme
 2. Masterclass Training & Community
 3. Terms of Engagement
 
-### 4.1 Journey of Discovery
+### 4.1 AI Transformation Programme
 
-
-
+- 4 Stages
+	- Baseline analysis
+	- Training & Capability building
+	- Opportunity diagnostic
+	- Progressive rollout & scaling
 ### 4.2 Masterclass Training & Community
 
 GenAi 101 - Introduction to GenAi
@@ -238,5 +263,12 @@ GenAi 302 - Agentic Coding & Workflow Engineering Masterclass
 1 day
 Max 8 people 
 R105K
+
+### 4.3 Terms of Engagement
+
+We like to work with companies where we can work with leadership that understands the importance of the work, and that as such due consideration needs to be given to the nature of the partnership.
+
+- School group - From BU CEO to internal champion, and then stalls at group level
+- Telco - procurement clearly runs the show
 
 
